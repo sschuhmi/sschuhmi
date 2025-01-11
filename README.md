@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sschuhmi
 - 👀 I’m interested in Data Science and endurance sports.
-- 🌱 I’m currently learning Data Wrangling with MongoDb.
+- 🌱 I’m currently learning GenAI, and Data Wrangling with MongoDb.
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 😄 Pronouns: he/him
 
